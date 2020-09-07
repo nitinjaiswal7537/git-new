@@ -15,6 +15,7 @@ int main() {
 	 }
 	 
 	 cout<<change;
+	 cout<<"new changes is done";
 	}
 	return 0;
 }
